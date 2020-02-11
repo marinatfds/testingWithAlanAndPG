@@ -1,2 +1,0 @@
-# testingWithAlanAndPG
-Created with CodeSandbox
